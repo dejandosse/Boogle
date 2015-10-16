@@ -1,0 +1,18 @@
+#header {
+	position:relative;
+	margin:0 auto 0;
+	display:block;
+	width:960px;
+}
+
+body{
+    margin:auto;
+	font-size:12px;
+	color:#666666;
+    font-size:13px;
+	font-family:Georgia, "Verdana", Times, serif;
+	background-color:#FFFFFF;
+
+
+	}
+
